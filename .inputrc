@@ -1,0 +1,11 @@
+# Readline configuration file
+# this is used by iTerm2 as well
+
+# CTRL left and right word jumping
+"\e[1;5D": backward-word
+"\e[1;5C": forward-word
+
+# CTRL+SHIFT left and right line limit jumping
+"\e[1;6D": beginning-of-line
+"\e[1;6C": end-of-line
+

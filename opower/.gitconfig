@@ -1,0 +1,6 @@
+[core]
+	excludesfile = ~/.gitignore_global
+[user]
+	name = Benson Fung
+	email = benson.fung@opower.com
+
