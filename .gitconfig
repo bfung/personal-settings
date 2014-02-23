@@ -2,6 +2,7 @@
 	excludesfile = ~/.gitignore_global
 [user]
 	name = Benson Fung
+	email = fung.benson@gmail.com
 
 [push]
 	default = simple
