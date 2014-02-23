@@ -35,6 +35,10 @@
 ehthumbs.db
 Thumbs.db
 
+# Vim swp files #
+#################
+*.swp
+
 # Eclipse files #
 #################
 .project
