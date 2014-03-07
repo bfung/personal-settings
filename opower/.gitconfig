@@ -4,3 +4,5 @@
 	name = Benson Fung
 	email = benson.fung@opower.com
 
+[push]
+	default = simple
