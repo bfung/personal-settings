@@ -15,4 +15,4 @@ if which jenv > /dev/null; then
     eval "$(jenv init -)";
 fi
 
-PATH=/usr/local/bin:/usr/local/mysql/bin:$PATH
+PATH=/usr/local/bin:/usr/local/sbin:/usr/local/mysql/bin:$PATH
