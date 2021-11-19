@@ -3,6 +3,9 @@
 [user]
 	name = Benson Fung
 	email = fung.benson@gmail.com
+	signingkey = 70FD86FD927E9028
 
 [push]
 	default = simple
+[gpg]
+	program = /usr/local/bin/gpg
